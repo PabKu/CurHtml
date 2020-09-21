@@ -1,0 +1,31 @@
+Instalar
+    chrome
+    sublime 3
+    git for windows
+    nodejs
+    browser-sync 
+
+
+CMD
+    git --version
+    node --version
+    browser-syn --version
+
+github
+    crear cuenta
+    crear repositorio
+    crear una página para el repositorio
+    verificar la branch
+    git clone URL
+    git config --global user.email ""
+    git checkout gh-pages
+    git status
+    git add site/
+    git commit -m "xxxx"
+    git push
+    browser-sync --server --directory --files "*"
+
+ayuda
+    http://stackoverflow.com/
+    https://jsfiddle.net/
+    https://codepen.io/
