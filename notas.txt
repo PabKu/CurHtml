@@ -26,6 +26,12 @@ github
     browser-sync --server --directory --files "*"
 
 ayuda
+    https://git-scm.com/book/es/v2
     http://stackoverflow.com/
     https://jsfiddle.net/
     https://codepen.io/
+    https://caniuse.com/
+    https://validator.w3.org/
+    https://www.w3schools.com/browsers/default.asp
+    https://getbootstrap.com/
+    https://jquery.com/
