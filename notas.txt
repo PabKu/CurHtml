@@ -35,3 +35,11 @@ ayuda
     https://www.w3schools.com/browsers/default.asp
     https://getbootstrap.com/
     https://jquery.com/
+
+Tarea
+    https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md
+    https://d3c33hcgiwev3.cloudfront.net/cc2bx9LiEeWvxwo5BbZD3w.processed/full/720p/index.webm?Expires=1600905600&Signature=CQdSCWbuwE~XksQn9joQQBufvlPAhsvk~iEoMbr6qBO7O7vuEnRM~hmrmlUxOWuafbqi5wG0~7Bw-ooPSwQXKcbZnrTL7MIUIDbq2pLZChZRp5rV0VXE00pBuLnCvVD3ZHCztibHT2ItO-RjoPxW1WphFjJRa946M58NbiGC9cU_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+Maquetado
+    https://balsamiq.com/
+    https://fonts.google.com/
